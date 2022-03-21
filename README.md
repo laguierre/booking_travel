@@ -7,7 +7,7 @@ Link to Youtube. [link](https://youtu.be/5TvFAogRsWk)
 In the GIT [link](https://github.com/MarcusNg/flutter_travel_ui/tree/master/lib)
 
 **Packages used:**
-- NONE
+- provider: ^6.0.1 [link](https://pub.dev/packages/provider)
 
 ## GIF
 <p align="center">
